@@ -11,7 +11,7 @@ npm install
 ```
 To get the API key and API id, Sign up to [Edamam](https://www.edamam.com/), after login go to Accounts > Dashboard > Application > view
 
-And create .env file and paste your Api_key and Api_id
+And create `.env` file and paste your Api_key and Api_id
 
 ```
 API_ID="Your API ID"
